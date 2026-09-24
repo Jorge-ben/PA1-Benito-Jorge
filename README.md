@@ -10,7 +10,7 @@
 1. Jorge Jerson Benito Mayhua 
 
 ## Video de exposición
-MI LINK DE VIDEO: 
+MI LINK DE VIDEO: https://youtu.be/LHG5GIeEpwM?si=TWOlTu21hhrxSe-N
 
 ## Descripción breve
 Programa en Java que ayuda a una microempresa a registrar un producto, mostrar su información,
